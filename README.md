@@ -68,9 +68,15 @@ for permitted use of AI in derivative tools or automation layers.
 ## 📬 Contact
 
 **Author & Maintainer:** M7 Development Team
+
 **Website:** [https://m7.org](https://m7.org)
+
 **Email:** [support@m7.org](mailto:support@m7.org)
+
 **Legal:** [legal@m7.org](mailto:legal@m7.org)
+
 **GitHub:** [https://github.com/m7org](https://github.com/linearblade)
+
 **General inquiries:** [legal@m7.org](mailto:legal@m7.org)
+
 **Security issues:**  [security@m7.org](mailto:security@m7.org)
