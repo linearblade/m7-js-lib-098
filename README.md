@@ -40,8 +40,8 @@ import lib from "/vendor/m7-js-lib-098/src/lib098.js";
 
 For modern projects, migrate to:
 
-* **[m7BootStrap →](./vendor/m7Bootstrap/README.md)** – runtime package management & loader
-* **[m7Fetch →](./vendor/m7Fetch/README.md)** – network and asset fetching system
+* **[m7BootStrap →](https://github.com/linearblade/m7BootStrap)** – runtime package management & loader
+* **[m7Fetch →](https://github.com/linearblade/m7Fetch)** – network and asset fetching system
 
 ---
 
