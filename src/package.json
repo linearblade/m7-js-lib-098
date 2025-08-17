@@ -3,8 +3,8 @@
     "title": "m7 legacy lib v098",
     "assets": [    ],
     "modules": [
-        { "id": "lib", "type": "js", "url": "lib098.js" }
-        { "id": "manager", "type": "js", "url": "install.js" }
+        { "id": "lib", "type": "js", "url": "lib098.js" },
+        { "id": "manager", "type": "js", "url": "manager.js" }
     ],
     "hooks" : {
         "packageLoad"  : [ "~manager.install"],
